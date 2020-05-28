@@ -6,3 +6,4 @@ public class Trabajador {
 	}
 	// Comentario añadido desde GitHub
 }
+// This comment has been created in the "RamaX" branch
