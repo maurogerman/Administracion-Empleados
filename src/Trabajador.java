@@ -4,4 +4,5 @@ public class Trabajador {
 	public Trabajador(String n) {
 		this.nombre = n;
 	}
+	// Comentario añadido desde GitHub
 }
