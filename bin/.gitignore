@@ -1,8 +1,4 @@
-/.classpath
-/.project
 /META-INF/
+/ayp3_tp.jar
 /ayp3/
-/ExcepcionOperacionNoPermitida.class
-/IEmpresa.class
-/ITrabajador.class
-/TipoCargo.class
+/Fecha.class
