@@ -1,3 +1,4 @@
+import ayp3.tp.*;
 public class Trabajador implements ITrabajador{
 	private String nombre;
 
